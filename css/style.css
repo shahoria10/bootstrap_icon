@@ -1,0 +1,11 @@
+.img{
+    width:200px;
+    margin-bottom:20px;
+}
+.fs-0 { font-size: 5rem; } 
+
+
+.icon-hover:hover {
+transform: scale(1.5); 
+transition: 0.3s;
+ }
